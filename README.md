@@ -1,11 +1,23 @@
 # java-herencia-polimorfismo
 
-1-  Reutilize código con clases Herencia y Composición
+En este proyecto completamente hecho en JAVA he aprendido los siguientes aspectos
 
-2-  Implemente interfaz y métodos abstratos
+1-  Domine el paradigma de programación más usado en el mercado
 
-3-  Entienda lo que es Polimorfismo
+2-  Entienda lo que son referencias y objetos
 
-4-  Aprenda sobre reescrita y herencia de métodos
+3-  Use atributos, métodos de la instancia y de la clase
 
-5-  Conozca super e protected
+4-  Aprenda a definir objetos a través de constructores
+
+5-  Aprenda sobre encapsulamiento
+
+6-  Reutilize código con clases Herencia y Composición
+
+7-  Implemente interfaz y métodos abstratos
+
+8-  Entienda lo que es Polimorfismo
+
+9-  Aprenda sobre reescrita y herencia de métodos
+
+10-  Conozca super e protected
